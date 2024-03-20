@@ -58,4 +58,7 @@ The app have the following functionalities
 
 > ### _Used Files_
 >
-> -`src/components/index.js` -`src/components/index.css` -`src/App.js` -`src/App.js`
+> -`src/components/index.js` <br />
+> -`src/components/index.css` <br />
+>  -`src/App.js` <br />
+> -`src/App.js` <br />
