@@ -1,0 +1,67 @@
+.his-con1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.his-time {
+  color: #64748b;
+  font-weight: 700;
+  margin-bottom: 13px;
+}
+.his-con3 {
+  display: flex;
+  align-items: center;
+  margin: -20px 0 0;
+}
+
+.his-logo {
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+  margin-top: 13px;
+}
+.his-con4 {
+  margin-top: 10px;
+}
+.history-title {
+  font-weight: 700;
+  color: #475569;
+}
+.dom-url {
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #64748b;
+}
+.del-btn {
+  border: 0;
+  background: none;
+  margin-bottom: -2.6pc;
+  cursor: pointer;
+}
+
+@media (min-width: 768px) {
+  .his-con2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .his-con3 {
+    margin: 5px 0 0 30px;
+  }
+  .his-con4 {
+    display: flex;
+    align-items: center;
+    margin-top: 0;
+  }
+  .dom-url {
+    margin: 0 0 0 10px;
+  }
+  .del-btn {
+    margin: 0;
+  }
+  .his-time {
+    margin-top: 20px;
+  }
+}
